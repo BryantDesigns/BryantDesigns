@@ -30,7 +30,9 @@ I frequently think back on my unconventional journey from my roots in graphic de
 ---
 For a deeper dive into my professional journey, feel free to view my resume at [tylerbryant.dev](https://tylerbryant.dev).
 
+Thank you for stopping by, and I look forward to connecting with you! 
 
-Thank you for stopping by, and I look forward to connecting with you!
+[![Linkedin Badge](https://img.shields.io/badge/-bryantdesigns-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryantdesigns/)](https://www.linkedin.com/in/bryantdesigns/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Connect_on_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryantdesigns/)](https://www.linkedin.com/in/bryantdesigns/)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bryantdesigns.bryantdesigns)
